@@ -1,5 +1,7 @@
 **Minecraft Forge Mappings for The Minecraft Version 1.20.1**
 
+#### Warning: these mapping ONLY Work for the Minecraft Version 1.20.1 and ONLY Forge not neoforge or fabric or anything else
+
 ### How to Use it:
 
 - Download the Forge mod you want to implement in to your Client.
